@@ -1,18 +1,18 @@
 <svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <clipPath id="circle">
+    <clipPath id="circleClip">
       <circle cx="110" cy="110" r="105"/>
     </clipPath>
   </defs>
 
   <image
-    href="./15kb.jpg"
+    href="https://raw.githubusercontent.com/premgudavalli20/premgudavalli20/main/15kb.jpg"
     x="5"
     y="5"
     width="210"
     height="210"
     preserveAspectRatio="xMidYMid slice"
-    clip-path="url(#circle)"
+    clip-path="url(#circleClip)"
   />
 
   <circle
