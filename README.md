@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Prem Gudavalli
 
 <p align="center">
-  <img src="./15kb.jpg" alt="Prem Gudavalli" width="220" style="border-radius: 50%;">
+  <img src="./profile-circle.svg" width="220" alt="Prem Gudavalli">
 </p>
 <p align="center">
   <b>🚀 Full-Stack Developer</b> |
