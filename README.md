@@ -1,8 +1,4 @@
 # Hi there 👋, I'm Prem Gudavalli
-
-<p align="center">
-  <img src="./profile-circle.svg" width="220" alt="Prem Gudavalli">
-</p>
 <p align="center">
   <b>🚀 Full-Stack Developer</b> |
   <b>🎓 MCA Student</b> |
