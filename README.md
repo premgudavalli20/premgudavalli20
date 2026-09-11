@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Prem Gudavalli
 
 <p align="center">
-  <img src="./15kb.jpg" alt="Prem Gudavalli" width="220"/>
+  <img src="./15kb.jpg" alt="Prem Gudavalli" width="220" height="220" style="border-radius:50%; object-fit:cover;"/>
 </p>
 
 <p align="center">
