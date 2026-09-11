@@ -1,5 +1,5 @@
 
-15kb.jpg
+
 # Hi there 👋, I'm Prem Gudavalli
 
 ### 🚀 Full-Stack Developer | 🎓 MCA Student | 🐍 Python Enthusiast | 💻 Web Developer
